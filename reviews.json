@@ -1,0 +1,93 @@
+[
+    {
+        "user_name": "Aleef",
+        "class_code": "CS313",
+        "professor": "Alex Ryba",
+        "professor_rating": 7,
+        "professor_review": "Professor Ryba teaches clearly, and he is easy to understand. ",
+        "workload_rating": 5,
+        "workload_evaluation": "It is not much work. He tells us to code what we discussed in class.",
+        "grading_criteria": "Hw, midterm, and final. We code in Java."
+    },
+
+    {
+        "user_name": "Aleef",
+        "class_code": "CS211",
+        "professor": "Jerry Waxman",
+        "professor_rating": 4,
+        "professor_review": "He is not the best. He is rude, unclear, and does not trust his students",
+        "workload_rating": 4,
+        "workload_evaluation": "The algorithms are complicated, and if you do not have a good lab professor, you will have a difficult time finishing. He also asks you to write notes in his own workbook which you have to buy",
+        "grading_criteria": "C++ is the language. Lab projects, homework, and final"
+    },
+    
+    {
+        "user_name": "Aleef",
+        "class_code": "CS212",
+        "professor": "Kenneth Lord",
+        "professor_rating": 9,
+        "professor_review": "Super sweet, respectful, and understanding",
+        "workload_rating": 3,
+        "workload_evaluation": "A few coding projects, midterm, and final",
+        "grading_criteria": "4-5 quizzes, two C projects, midterm, and final"
+    },
+
+    {
+        "user_name": "Anon",
+        "class_code": "CS313",
+        "professor": "Alex Ryba",
+        "professor_rating": 5,
+        "professor_review": "He was a decent professor",
+        "workload_rating": 4,
+        "workload_evaluation": "The workload is manageable but you have to keep up with the homework and the class notes. ",
+        "grading_criteria": "Grading mostly depends on exams and quizes"
+    },
+
+    {
+        "user_name": "Nabila",
+        "class_code": "CS211",
+        "professor": "Jerry Waxman",
+        "professor_rating": 6,
+        "professor_review": "He expects students to put in the work and understand all the concepts he teaches. His exams are decent if you practice enough. He curves well.  ",
+        "workload_rating": 5,
+        "workload_evaluation": "He goes over a lot of concepts in each class so the workload is not bad but reviewing his lessons and re doing the problems in class will help manage the word load specially before exams.",
+        "grading_criteria": "Grading: exams, including midterm and final are worth 50% all together and the lab projects are worth 50%"
+    },
+
+    {
+        "user_name": "Nabila",
+        "class_code": "CS212",
+        "professor": "Kenneth Lord",
+        "professor_rating": 7,
+        "professor_review": "He is a really good professor who's exam questions are similar to what he goes over in class. He gives detailed explanations and examples of the code. ",
+        "workload_rating": 7,
+        "workload_evaluation": "Workload is easily manageable if you review his slides and practice the problems which helps in the lab class as well.",
+        "grading_criteria": "30% on class projects, 40% exams and 30% on lab exercises and language used is Java."
+    },
+
+    {
+        "user_name": "Momina",
+        "class_code": "CS212",
+        "professor": "Kenneth Lord",
+        "professor_rating": 9,
+        "professor_review": "He explained the concepts well and gave enough time to do the projects. ",
+        "workload_rating": 4,
+        "workload_evaluation": "We had enough time to do the projects and given generous cut-off days with only -3 penalty. ",
+        "grading_criteria": "We used Java"
+    },
+
+    {
+        "user_name": "Momina",
+        "class_code": "CS340",
+        "professor": "John Svadlenka",
+        "professor_rating": 4,
+        "professor_review": "The project was difficult and we were provided resources to learn the necessary skills to implement the project.",
+        "workload_rating": 8,
+        "workload_evaluation": "The projects were strenuous. ",
+        "grading_criteria": "We used C/C++"
+    }
+    
+]
+
+    
+
