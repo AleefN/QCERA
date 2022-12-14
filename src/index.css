@@ -1,0 +1,190 @@
+/*body {
+  margin: 0;
+  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
+    'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
+    sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
+    monospace;
+}
+*/
+
+*{
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+}
+
+body{
+  font-family: 'Times New Roman', Times, serif;
+}
+
+.container{
+  max-width: 1060px;
+  margin: 20px auto;
+  overflow: auto;
+  min-height: 1000px;
+  padding: 20px;
+  border-radius: 3px;
+  text-align: center;
+}
+
+.nav{
+  background-color: white;
+  color: black;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  gap: 20px;
+  padding: auto;
+}
+
+.nav a{
+  color: inherit;
+  text-decoration: none;
+  height: 100%;
+  display: inline;
+}
+
+.nav ul{
+  padding: 0;
+  margin: 0;
+  list-style: none;
+  display: flex;
+  gap: 1rem;
+}
+
+.nav li:active{
+  background-color: white;
+}
+
+.web-title{
+  font-size: 3rem;
+  
+}
+
+.web-title:hover{
+  background-color: rgb(222, 219, 219);
+  
+}
+
+.nav li{
+  float: right;
+  display: block;
+  color: black;
+  text-align: center;
+  padding: 14px 16px;
+  margin-top: 50px;
+  text-decoration: none;
+  font-size: 25px;
+  font-family: Georgia, serif;
+  border-bottom: 3px solid transparent;
+}
+
+.nav li:hover{
+  background-color: white;
+  border-bottom: 3px solid red;
+}
+
+
+.about{
+  background-color: white;
+  padding: 20px;
+  margin: 20px;
+  border: 10px;
+  text-align: left;
+}
+
+.about h1{
+  text-align: center;
+}
+.about p{
+  font-size: large;
+}
+
+.review{
+  background-color: white;
+  padding: 50px;
+}
+
+.home h1{
+  background-color: white;
+}
+
+  
+table {
+  margin: auto;
+  width: 80%;
+  height: 600px;
+  border: 2px solid black;
+  padding: 10px;
+}
+  
+th {
+  border-bottom: 1px solid black;
+  background-color: black;
+  color: white;
+  border: 2px solid black;
+}
+  
+td {
+  text-align: center;
+  border: 2px, solid, black;
+}
+
+.waxman{
+  margin: auto;
+  width: 600px;
+  height: 600px;
+  padding: 10px;
+}
+
+.waxman th{
+  width: 100px;
+  height: 150px;
+  border-bottom: 1px solid black;
+}
+
+.homebody {
+  border-radius: 1em;
+  padding: 1em;
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  margin-right: -50%;
+  transform: translate(-50%, -50%) }
+
+.homebody #Q{
+  color: red;
+  display: inline;
+  font-size: 1000%;
+  font-family: Georgia, serif;
+  text-shadow: 6px 6px grey;
+}
+
+.homebody #CERA{
+  display: inline;
+  font-size: 1000%;
+  font-family: Georgia, serif;
+  text-shadow: 6px 6px grey;
+}
+
+.homebody #description{
+  font-family: Georgia, serif;
+        color: black;
+        font-size: 25px;
+        text-decoration: none;
+}
+
+.form{
+  border: 20px;
+  font-size: larger;
+  padding: 24px;
+  line-height: 2.0;
+  margin-top: 20px;
+  margin-bottom: 20px;
+}
